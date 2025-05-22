@@ -1,1 +1,1 @@
-# Crop-diseases-and-pests-detection-
+# Crop-diseases-and-pests-detection
